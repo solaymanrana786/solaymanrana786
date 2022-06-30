@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**solaymanrana786/solaymanrana786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at 10 Minute School.
 - 🌱 I’m currently learning all about Clean Architecture 
 - ⚙️ I use daily: swift, xcode.
 - 💅 Developed: https://apps.apple.com/us/app/10-minute-school/id1577061772, https://apps.apple.com/us/app/festfriends/id1459285248, https://apps.apple.com/us/app/mixedtape-io/id1520358863?fbclid=IwAR0oqQiNuvhz2Cf4dUtJ15qmpuVx_HoRo52V0qSQBm0x01SavJ78YHzjoj4 etc…
 - 💬 Ping me about swift, ios developments, design thinking
 - 📫 Reach me: https://twitter.com/solaymanrana786 & https://www.linkedin.com/in/solaymanrana786
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
