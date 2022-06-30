@@ -1,6 +1,6 @@
-#### Hi there 👋
+### Hi there 👋
 
-##### I'm an iOS Developer working in Dhaka, Bangladesh.
+#### I'm an iOS Developer working in Dhaka, Bangladesh.
 
 ###### NOW
 - ✨ Developing [10 Minute School](https://apps.apple.com/us/app/10-minute-school/id1577061772) iOS App;
